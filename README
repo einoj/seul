@@ -1,0 +1,3 @@
+SEU Listner 
+
+A simple TCP server implemented in GO for logging data sent over ethernet DAQ hardware.
